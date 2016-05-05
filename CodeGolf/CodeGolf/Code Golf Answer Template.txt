@@ -1,0 +1,35 @@
+﻿
+
+<!-- language-all: lang-cs -->
+
+##C#, {REPLACE_WITH_CODE_SIZE} bytes
+
+---
+
+**Golfed**
+
+    {REPLACE_WITH_GOLFED_METHOD_CODE}
+
+---
+
+**Ungolfed**
+
+    {REPLACE_WITH_UNGOLFED_METHOD_CODE}
+
+---
+
+**Full code**
+
+    {REPLACE_WITH_FULL_CODE}
+
+---
+
+**Releases**
+
+ - **v{REPLACE_WITH_RELEASE_VERSION}** - `{REPLACE_WITH_CODE_SIZE} bytes` - `{REPLACE_WITH_CODE_SIZE_DIFFERENCE} bytes`  {REPLACE_WITH_RELEASE_DESCRIPTION}
+
+---
+
+**Notes**
+
+ - {REPLACE_WITH_NOTES}
